@@ -2,12 +2,12 @@ Application: E-commerce
 
 Author: Flávio Lages
 
-Framework's: NextJs, TailwindCSS, Framer-Motion
+Framework's: NextJs, TailwindCSS, Framer-Motion, styled-components
 
 Deploy: Vercel
 
-Versão: 2
+Versão: 3
 
-Cx'
-add components Header{Menu,Logo,Search}
-install framer-motion
+
+add components CarrinhoItens
+install styled-components
