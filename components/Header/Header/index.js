@@ -9,7 +9,7 @@ export default function Header() {
             flex-row 
             justify-between 
             p-2
-            bg-gray-100">
+            ">
         
         <Menu></Menu>
 
